@@ -1,7 +1,7 @@
 # Ex No 2: CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS-
 
-## NAME: AADHITHYA M
-## REG NO: 212222100001
+## NAME: AMRUTHA SA 
+## REG NO: 21222211004
 
 # Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
